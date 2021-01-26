@@ -27,22 +27,22 @@ This challenge can be of interest to experts in the field of natural language pr
 
 To simplify the evaluation process, two subtasks are presented:
 
-1. [Entity recognition](./tasks#subtask-a-entity-recognition)
-2. [Relation extraction](./tasks#subtask-b-relation-extraction)
+1. [Entity recognition](tasks#subtask-a-entity-recognition)
+2. [Relation extraction](tasks#subtask-b-relation-extraction)
 
 ## Submissions and evaluation
 
 There are four evaluation scenarios:
 
-1. [A main scenario covering both tasks](./tasks#main-evaluation-scenario-1)
-2. [An optional scenario evaluating subtask A](./tasks#optional-subtask-a-scenario-2)
-3. [An optional scenario evaluating subtask B](./tasks#optional-subtask-b-scenario-3)
+1. [A main scenario covering both tasks](tasks#main-evaluation-scenario-1)
+2. [An optional scenario evaluating subtask A](tasks#optional-subtask-a-scenario-2)
+3. [An optional scenario evaluating subtask B](tasks#optional-subtask-b-scenario-3)
 
 > 📝 Details about the submission format will be provided shortly.
 
 ## Resources
 
-All the data will be made available to participants in due time. This includes training, development and test data, as well as evaluation scripts and sample submissions. [More details are provided here](./resources).
+All the data will be made available to participants in due time. This includes training, development and test data, as well as evaluation scripts and sample submissions. [More details are provided here](resources).
 
 ## Schedule
 
@@ -50,8 +50,8 @@ All the data will be made available to participants in due time. This includes t
 |---|---|---|
 | 08&nbsp;Mar&nbsp;2021 | 🏋️ Training data released                                       | |
 | 29&nbsp;Mar&nbsp;2021 | 🏃 Development data released                                    | |
-| 05&nbsp;Apr&nbsp;2021 | ⚗️ **Evaluation period begins** -- test data released               | |
-| 19&nbsp;Apr&nbsp;2021 | 🤯 **Evaluation period ends** -- due by 23:59 GMT-12 (AoE)          | |
+| 05&nbsp;Apr&nbsp;2021 | ⚗️ **Evaluation period begins** -- test data released            | |
+| 19&nbsp;Apr&nbsp;2021 | 🤯 **Evaluation period ends** -- due by 23:59 GMT-12 (AoE)      | |
 | 26&nbsp;Apr&nbsp;2021 | 🏆 Results posted                                               | |
 | 10&nbsp;May&nbsp;2021 | 🗞️ System descriptions due -- closes by 23:59 GMT-12 (AoE)      | |
 | 24&nbsp;May&nbsp;2021 | 📝 Papers reviews due                                           | |

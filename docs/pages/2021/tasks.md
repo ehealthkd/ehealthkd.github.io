@@ -60,7 +60,7 @@ Actions can have several subjects and targets, in which case the semantic interp
 Input files in the eHealth-KD 2021 are plain text files in UTF-8 format with one sentence per line.
 Sentences have not been preprocesed in any sense.
 
-The output is always **one** file in [BRAT standoff format](https://brat.nlplab.org/standoff.html), where each line represents either an entity or a relation. All details about the required format are available in the link above. We provide Python scripts to read and write this format in the repository of the eHealth-KD 2021 Challenge. More details in the [Resources](./resources/) section.
+The output is always **one** file in [BRAT standoff format](https://brat.nlplab.org/standoff.html), where each line represents either an entity or a relation. All details about the required format are available in the link above. We provide Python scripts to read and write this format in the repository of the eHealth-KD 2021 Challenge. More details in the [Resources](./resources) section.
 
 An example output file for the annotation represented in the previous images is provided below:
 
