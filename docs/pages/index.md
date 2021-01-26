@@ -1,3 +1,8 @@
+---
+title: eHealth-KD 2020
+permalink: /
+---
+
 ## 👋 Welcome to the eHealth Knowledge Discovery Challenge!
 
 This page contains information about the challenge in general, a brief history of its development and links to each year's specific information.
