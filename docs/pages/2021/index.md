@@ -27,22 +27,22 @@ This challenge can be of interest to experts in the field of natural language pr
 
 To simplify the evaluation process, two subtasks are presented:
 
-1. [Entity recognition](tasks#subtask-a-entity-recognition)
-2. [Relation extraction](tasks#subtask-b-relation-extraction)
+1. [Entity recognition](/2021/tasks#subtask-a-entity-recognition)
+2. [Relation extraction](/2021/tasks#subtask-b-relation-extraction)
 
 ## Submissions and evaluation
 
 There are four evaluation scenarios:
 
-1. [A main scenario covering both tasks](tasks#main-evaluation-scenario-1)
-2. [An optional scenario evaluating subtask A](tasks#optional-subtask-a-scenario-2)
-3. [An optional scenario evaluating subtask B](tasks#optional-subtask-b-scenario-3)
+1. [A main scenario covering both tasks](/2021/tasks#main-evaluation-scenario-1)
+2. [An optional scenario evaluating subtask A](/2021/tasks#optional-subtask-a-scenario-2)
+3. [An optional scenario evaluating subtask B](/2021/tasks#optional-subtask-b-scenario-3)
 
 > 📝 Details about the submission format will be provided shortly.
 
 ## Resources
 
-All the data will be made available to participants in due time. This includes training, development and test data, as well as evaluation scripts and sample submissions. [More details are provided here](resources).
+All the data will be made available to participants in due time. This includes training, development and test data, as well as evaluation scripts and sample submissions. [More details are provided here](/2021/resources).
 
 ## Schedule
 
