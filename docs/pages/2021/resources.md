@@ -12,7 +12,9 @@ In the training collection, each sentence will be labeled with its corresponding
 
 Participants can opt-out of the cross-domain / multi-language challenge at evaluation time, in which case only the metrics from the main domain (MedlinePlus) and language (Spanish) will be used.
 
-> **NOTE:** The resulting documents and output files are distributed along with the Task. There is no need for participants to download extra data from MedlinePlus servers, since all the input is already distributed.
+As in the previous edition, the corpus for eHealth-KD 2021 [7] will use a corpus extracted from MedlinePlus sources, plus additional resources. First, the same corpus used in the 2020 edition will be provided for training and development, while a new set of previously unlabelled sentences will be manually annotated and used for the test collection. Additionally, health-related news sourced from Wikinews will be also provided for training and development. Finally, a small set of sentences from scientific papers in the CORD-19 corpus (in English language) will be selected, annotated, and distributed in the training, development, and testing collections.
+
+> **NOTE:** All the sentences are manually annotated using Brat by a group of annotators. The resulting documents and output files are distributed along with the Task. There is no need for participants to download extra data from any of the sources, since all the input is already distributed.
 
 ## Corpus data
 
