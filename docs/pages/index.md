@@ -15,15 +15,15 @@ We're back for the 2021 edition of the eHealth-KD Challenge! For the fourth time
 
 ### 🏆 2020 Challenge
 
-The third edition of the eHealth-KD Challenge was hosted at **IberLEF 2020**. All details are available [here](/2020).
+The third edition of the eHealth-KD Challenge was hosted at **IberLEF 2020**. All details are available [here](/pages/2020.html).
 
 ### 🏆 2019 Challenge
 
-The second edition of the eHealth-KD Challenge was hosted at **IberLEF 2019**. All details are available [here](/2019).
+The second edition of the eHealth-KD Challenge was hosted at **IberLEF 2019**. All details are available [here](/pages/2019.html).
 
 ### 🏆 2018 Challenge
 
-The first edition of the eHealth-KD Challenge was hosted at **TASS 2018**. All details are available [here](/2018).
+The first edition of the eHealth-KD Challenge was hosted at **TASS 2018**. All details are available [here](/pages/2018.html).
 
 ### Funding
 
