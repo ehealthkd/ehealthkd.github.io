@@ -16,6 +16,8 @@ As in the previous edition, the corpus for eHealth-KD 2021 will use a corpus ext
 
 > **NOTE:** All the sentences are manually annotated using Brat by a group of annotators. The resulting documents and output files are distributed along with the Task. There is no need for participants to download extra data from any of the sources, since all the input is already distributed.
 
+All resources will be distributed in the [eHealthKD corpora repository](https://github.com/ehealthkd/corpora).
+
 ## Corpus data
 
 The corpus will be divided into three sections. Training and development sets will be published along with baseline implementations, for participants to train and fine-tune their systems. These files will consist of both plain text input and the expected outputs for both subtasks. Afterward, a small test set will be released, with plain text only, further divided into 3 sub-sets, one for each scenario. Participants are expected to submit the corresponding output files.
@@ -30,9 +32,11 @@ In no case, participants will be able to access the correct output files for the
 
 Evaluation scripts will be provided so that participants can test offline their systems with respect to the same metrics used in the challenge. Since participants will not have access to the test gold annotations, their offline performance will need to be evaluated in the development set. This metric will not be exactly the same as the one obtained in the test set, but it should serve for participants to compare different strategies and perform hyper-parameter tunning.
 
+A [utility script](https://github.com/ehealthkd/corpora/tree/master/scripts) to load, manipulate, and save ANN files is provided. Instructions for its use are available at that location.
+
 ### **Download links**:
 
-- [🔧 Tools for loading and manipulating ANN files](https://github.com/ehealthkd/corpora/tree/master/scripts)
+- [🔧 Tools for loading and manipulating ANN files](https://github.com/ehealthkd/corpora/tree/master/scripts/)
 
 ## Baselines
 
