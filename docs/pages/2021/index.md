@@ -44,11 +44,13 @@ There are four evaluation scenarios:
 
 All the data will be made available to participants in due time. This includes training, development and test data, as well as evaluation scripts and sample submissions. [More details are provided here](/2021/resources).
 
+All the resources are available in the [eHealth-KD corpora repository](https://github.com/ehealthkd/corpora).
+
 ## Schedule
 
 |Date|Event|Link|
 |---|---|---|
-| 08&nbsp;Mar&nbsp;2021 | 🏋️ Training data released                                       | |
+| 08&nbsp;Mar&nbsp;2021 | 🏋️ Training data released                                       | [💾 Training set](https://github.com/ehealthkd/corpora/tree/master/2021/training)<br>[🔧 Utility scripts](https://github.com/ehealthkd/corpora/tree/master/scripts) |
 | 29&nbsp;Mar&nbsp;2021 | 🏃 Development data released                                    | |
 | 05&nbsp;Apr&nbsp;2021 | ⚗️ **Evaluation period begins** -- test data released            | |
 | 19&nbsp;Apr&nbsp;2021 | 🤯 **Evaluation period ends** -- due by 23:59 GMT-12 (AoE)      | |

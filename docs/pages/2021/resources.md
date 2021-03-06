@@ -12,7 +12,7 @@ In the training collection, each sentence will be labeled with its corresponding
 
 Participants can opt-out of the cross-domain / multi-language challenge at evaluation time, in which case only the metrics from the main domain (MedlinePlus) and language (Spanish) will be used.
 
-As in the previous edition, the corpus for eHealth-KD 2021 [7] will use a corpus extracted from MedlinePlus sources, plus additional resources. First, the same corpus used in the 2020 edition will be provided for training and development, while a new set of previously unlabelled sentences will be manually annotated and used for the test collection. Additionally, health-related news sourced from Wikinews will be also provided for training and development. Finally, a small set of sentences from scientific papers in the CORD-19 corpus (in English language) will be selected, annotated, and distributed in the training, development, and testing collections.
+As in the previous edition, the corpus for eHealth-KD 2021 will use a corpus extracted from MedlinePlus sources, plus additional resources. First, the same corpus used in the 2020 edition will be provided for training and development, while a new set of previously unlabelled sentences will be manually annotated and used for the test collection. Additionally, health-related news sourced from Wikinews will be also provided for training and development. Finally, a small set of sentences from scientific papers in the CORD-19 corpus (in English language) will be selected, annotated, and distributed in the development, and testing collections.
 
 > **NOTE:** All the sentences are manually annotated using Brat by a group of annotators. The resulting documents and output files are distributed along with the Task. There is no need for participants to download extra data from any of the sources, since all the input is already distributed.
 
@@ -24,15 +24,15 @@ In no case, participants will be able to access the correct output files for the
 
 ### Download links:
 
-> Will be provided shortly.
+- [🏋️ Training data](https://github.com/ehealthkd/corpora/tree/master/2021/training)
 
-## Evaluation scripts
+## Evaluation and utility scripts
 
 Evaluation scripts will be provided so that participants can test offline their systems with respect to the same metrics used in the challenge. Since participants will not have access to the test gold annotations, their offline performance will need to be evaluated in the development set. This metric will not be exactly the same as the one obtained in the test set, but it should serve for participants to compare different strategies and perform hyper-parameter tunning.
 
 ### **Download links**:
 
-> Will be provided shortly.
+- [🔧 Tools for loading and manipulating ANN files](https://github.com/ehealthkd/corpora/tree/master/scripts)
 
 ## Baselines
 
