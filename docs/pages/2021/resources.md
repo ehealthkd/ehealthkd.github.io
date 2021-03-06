@@ -1,7 +1,7 @@
 ---
 title: Resources
 permalink: /2021/resources
-
+layout: "2021"
 ---
 
 # Linguistic resources

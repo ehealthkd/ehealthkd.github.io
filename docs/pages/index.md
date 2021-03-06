@@ -1,6 +1,7 @@
 ---
 title: eHealth-KD 2020
 permalink: /
+layout: main
 ---
 
 ## 👋 Welcome to the eHealth Knowledge Discovery Challenge!

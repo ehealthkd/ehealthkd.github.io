@@ -1,6 +1,7 @@
 ---
 title: eHealth-KD 2021
 permalink: /2021
+layout: "2021"
 ---
 
 # IberLEF eHealth-KD 2021: eHealth Knowledge Discovery
