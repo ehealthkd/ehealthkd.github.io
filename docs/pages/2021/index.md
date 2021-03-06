@@ -4,7 +4,7 @@ permalink: /2021
 layout: "2021"
 ---
 
-# IberLEF eHealth-KD 2021: eHealth Knowledge Discovery
+# IberLEF eHealth Knowledge Discovery Challenge 2021
 
 > ### 🗨️ Follow [@EHealthKD](https://twitter.com/EhealthKd) on Twitter for up-to-date information. 
 
