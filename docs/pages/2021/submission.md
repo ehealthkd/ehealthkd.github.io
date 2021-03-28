@@ -6,7 +6,7 @@ layout: "2021"
 
 # Submission details
 
-The eHealth-KD 2021 challenge will be evaluated in [Codalab](). We have prepared a baseline implementation to guide you through the submission process. 
+The eHealth-KD 2021 challenge will be evaluated in [Codalab](https://competitions.codalab.org/competitions/30333). We have prepared a baseline implementation to guide you through the submission process. 
 
 ## Getting the training data
 
@@ -211,7 +211,7 @@ Once you've checked your results, you'll want to submit them to Codalab to appea
 
 > 📝 Once the test set is released, we will open a new server for you to submit the final output that you run on the `eval/testing` dataset.
 
-Navigate to <https://competitions.codalab.org/competitions/30333>. You will need to sign-in to Codalab (or register if you haven't). Once in the competition page, look for the "Participate" section, and then the "Submit / View results" subsection. You'll see a big "Submit" button that will prompt you for a .zip file.
+Navigate to [eHealth-KD 2021 Codalab](https://competitions.codalab.org/competitions/30333). You will need to sign-in to Codalab (or register if you haven't). Once in the competition page, look for the "Participate" section, and then the "Submit / View results" subsection. You'll see a big "Submit" button that will prompt you for a .zip file.
 
 To create this zip file, `cd` into your submission folder, and zip its content. For example:
 
