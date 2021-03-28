@@ -50,7 +50,7 @@ Check out [the submission section](/2021/submission) for details on running the 
 ### **Download links**:
 
 - [🔧 Baseline implementation](https://github.com/ehealthkd/corpora/tree/master/scripts/baseline.py)
-- [🔧 Scoring script](https://github.com/ehealthkd/corpora/tree/master/scripts/anntools.py)
+- [🔧 Scoring script](https://github.com/ehealthkd/corpora/tree/master/scripts/score.py)
 
 
 # Additional resources
