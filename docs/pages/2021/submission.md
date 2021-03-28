@@ -112,7 +112,7 @@ The `score.py` script implements the scoring function used in the challenge. You
 Continuing with our baseline implementation, let's check the score in the `eval/training` dataset.
 
 ```
-$ python scripts/score.py --gold 2021/eval/training --submit 2021/submissions/baseline/training
+$ python3 scripts/score.py --gold 2021/eval/training --submit 2021/submissions/baseline/training
 
 Scoring scenario 1 on run 1:
 
@@ -205,6 +205,92 @@ f1: 0.9297
 ...
 ```
 
+> ⚠️ Keep in mind we are training and evaluating on the same set, hence the artificially high results!
+
+## Runing on training and evaluating on develop
+
+Now that the development set is released, you can train your system on the `ref/training` data and evaluate it instead on the `eval/develop`. This should give you a more reasonable idea of the actual performance on an unknown dataset. To test the baseline in this workflow, we just have to change the `--eval` parameter, and `--submit` parameter to output our predictions in a different folder:
+
+```bash
+$ python3 scripts/baseline.py \
+    --ref 2021/ref/training \
+    --eval 2021/eval/develop \
+    --submit 2021/submissions/baseline/develop/run1
+
+Loaded 1500 sentences for fitting.
+Training completed: Stored 4635 keyphrases and 8535 relation pairs.
+Evaluating on 2021/eval/develop/scenario1-main.
+Loaded 100 input sentences.
+Writing output to 2021/submissions/baseline/develop/run1/scenario1-main
+Evaluating on 2021/eval/develop/scenario2-taskA.
+Loaded 100 input sentences.
+Writing output to 2021/submissions/baseline/develop/run1/scenario2-taskA
+Evaluating on 2021/eval/develop/scenario3-taskB.
+Loaded 100 input sentences.
+Writing output to 2021/submissions/baseline/develop/run1/scenario3-taskB
+```
+
+And now we can compute the score on this new set of sentences:
+
+```bash
+$ python3 scripts/score.py --gold 2021/eval/develop --submit 2021/submissions/baseline/develop
+
+Scoring scenario 1 on run 1:
+
+correct_A: 211
+incorrect_A: 33
+partial_A: 37
+spurious_A: 394
+missing_A: 630
+correct_B: 7
+spurious_B: 90
+missing_B: 844
+--------------------
+recall: 0.1342
+precision: 0.3063
+f1: 0.1867
+
+Scoring scenario 2 on run 1:
+
+correct_A: 211
+incorrect_A: 33
+partial_A: 37
+spurious_A: 394
+missing_A: 630
+--------------------
+recall: 0.2519
+precision: 0.34
+f1: 0.2894
+
+Scoring scenario 3 on run 1:
+
+correct_B: 7
+spurious_B: 24
+missing_B: 844
+--------------------
+recall: 0.008226
+precision: 0.2258
+f1: 0.01587
+
+Run 2 not found!
+Run 3 not found!
+
+scenario1_f1:0.1866614048934491
+scenario1_precision:0.30634715025906734
+scenario1_recall:0.13422247446083996
+scenario1_best:run1
+scenario2_f1:0.28940731399747793
+scenario2_precision:0.34
+scenario2_recall:0.2519209659714599
+scenario2_best:run1
+scenario3_f1:0.015873015873015872
+scenario3_precision:0.22580645161290322
+scenario3_recall:0.008225616921269096
+scenario3_best:run1
+```
+
+> 👉 As you might expect, the results from the baseline are significantly worse in new data than on training data.
+
 ## Submitting the results
 
 Once you've checked your results, you'll want to submit them to Codalab to appear in the leaderboard. During the whole challenge we will running a training server where you can test the whole workflow. This training server will evaluate your score on the `eval/training` and `eval/develop` datasets.
@@ -216,7 +302,7 @@ Navigate to [eHealth-KD 2021 Codalab](https://competitions.codalab.org/competiti
 To create this zip file, `cd` into your submission folder, and zip its content. For example:
 
 ```
-cd corpora/submissions/baseline
+cd corpora/2021/submissions/baseline
 zip -r submission.zip .
 ```
 
