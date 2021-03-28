@@ -20,13 +20,16 @@ All resources will be distributed in the [eHealthKD corpora repository](https://
 
 ## Corpus data
 
-The corpus will be divided into three sections. Training and development sets will be published along with baseline implementations, for participants to train and fine-tune their systems. These files will consist of both plain text input and the expected outputs for both subtasks. Afterward, a small test set will be released, with plain text only, further divided into 3 sub-sets, one for each scenario. Participants are expected to submit the corresponding output files.
+The corpus will be divided into three sections. Training and development sets are published along with baseline implementations, for participants to train and fine-tune their systems. These files consist of both plain text input and the expected outputs for both subtasks. 
+
+Afterward, a small test set will be released, with plain text only, further divided into 3 sub-sets, one for each scenario. Participants are expected to submit the corresponding output files.
 
 In no case, participants will be able to access the correct output files for the test set before the challenge ends. Afterward, the full corpus, including Brat-annotated files will be freely available under a suitable license for the research community.
 
 ### Download links:
 
-- [🏋️ Training data](https://github.com/ehealthkd/corpora/tree/master/2021/training)
+- [🏋️ Training data](https://github.com/ehealthkd/corpora/tree/master/2021/ref/training)
+- [🏋️ Develop data](https://github.com/ehealthkd/corpora/tree/master/2021/ref/training)
 
 ## Evaluation and utility scripts
 
@@ -36,15 +39,19 @@ A [utility script](https://github.com/ehealthkd/corpora/tree/master/scripts) to 
 
 ### **Download links**:
 
-- [🔧 Tools for loading and manipulating ANN files](https://github.com/ehealthkd/corpora/tree/master/scripts/)
+- [🔧 Tools for loading and manipulating ANN files](https://github.com/ehealthkd/corpora/tree/master/scripts/anntools.py)
 
 ## Baselines
 
-A simple baseline will be released along with the corpus. The baseline source code will be freely available as well. The baselines performance on the development and the test set will be published.
+A simple baseline is released along with the corpus. The baseline source code is freely available as well. The baselines performance on the development and the test set are now published on [a training server](https://competitions.codalab.org/competitions/30333).
+
+Check out [the submission section](/2021/submission) for details on running the baseline and scoring scripts.
 
 ### **Download links**:
 
-> Will be provided shortly.
+- [🔧 Baseline implementation](https://github.com/ehealthkd/corpora/tree/master/scripts/baseline.py)
+- [🔧 Scoring script](https://github.com/ehealthkd/corpora/tree/master/scripts/anntools.py)
+
 
 # Additional resources
 

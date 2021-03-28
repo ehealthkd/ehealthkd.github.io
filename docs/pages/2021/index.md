@@ -49,14 +49,14 @@ All the resources are available in the [eHealth-KD corpora repository](https://g
 
 ## Submission
 
-The challenge will be graded on <Codalab.org>. Check out the [submission instructions](/2021/submission) for more details. There is an ongoing training competition already hosted where you can try your system on the training dataset, to get acquainted with the submission workflow.
+The challenge will be graded on <Codalab.org>. Check out the [submission instructions](/2021/submission) for more details. There is an ongoing [training competition](https://competitions.codalab.org/competitions/30333) already hosted where you can try your system on the training dataset and development, to get acquainted with the submission workflow.
 
 ## Schedule
 
 |Date|Event|Link|
 |---|---|---|
-| 08&nbsp;Mar&nbsp;2021 | 🏋️ Training data released                                       | [💾 Training set](https://github.com/ehealthkd/corpora/tree/master/2021/training)<br>[🔧 Utility scripts](https://github.com/ehealthkd/corpora/tree/master/scripts) |
-| 29&nbsp;Mar&nbsp;2021 | 🏃 Development data released                                    | |
+| 08&nbsp;Mar&nbsp;2021 | 🏋️ Training data released                                       | [💾 Training set](https://github.com/ehealthkd/corpora/tree/master/2021/ref/training)<br>[🔧 Utility scripts](https://github.com/ehealthkd/corpora/tree/master/scripts) |
+| 29&nbsp;Mar&nbsp;2021 | 🏃 Development data released                                    | [💾 Develop set](https://github.com/ehealthkd/corpora/tree/master/2021/ref/develop)|
 | 05&nbsp;Apr&nbsp;2021 | ⚗️ **Evaluation period begins** -- test data released            | |
 | 19&nbsp;Apr&nbsp;2021 | 🤯 **Evaluation period ends** -- due by 23:59 GMT-12 (AoE)      | |
 | 26&nbsp;Apr&nbsp;2021 | 🏆 Results posted                                               | |
