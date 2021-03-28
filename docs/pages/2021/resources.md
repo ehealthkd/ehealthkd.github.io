@@ -29,7 +29,7 @@ In no case, participants will be able to access the correct output files for the
 ### Download links:
 
 - [🏋️ Training data](https://github.com/ehealthkd/corpora/tree/master/2021/ref/training)
-- [🏋️ Develop data](https://github.com/ehealthkd/corpora/tree/master/2021/ref/training)
+- [🏋️ Develop data](https://github.com/ehealthkd/corpora/tree/master/2021/ref/develop)
 
 ## Evaluation and utility scripts
 
