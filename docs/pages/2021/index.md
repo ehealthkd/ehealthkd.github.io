@@ -49,7 +49,7 @@ All the resources are available in the [eHealth-KD corpora repository](https://g
 
 ## Submission
 
-The challenge will be graded on <Codalab.org>. Check out the [submission instructions](/2021/submission) for more details. There is an ongoing [training competition](https://competitions.codalab.org/competitions/30333) already hosted where you can try your system on the training dataset and development, to get acquainted with the submission workflow.
+The challenge will be graded on [Codalab.org](https://competitions.codalab.org). Check out the [submission instructions](/2021/submission) for more details. There is an ongoing [training competition](https://competitions.codalab.org/competitions/30333) already hosted where you can try your system on the training dataset and development, to get acquainted with the submission workflow.
 
 ## Schedule
 
