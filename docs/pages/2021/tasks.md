@@ -22,7 +22,7 @@ There are four types for entities:
 
 ## Subtask B: Relation extraction
 
-Subtask B continues from the output of Subtask B, by linking the entities detected and labelled in the input document. The purpose of this subtask is to recognize all relevant semantic relationships between the entities recognized. Eight of the thirteen semantic relations defined for this challenge can be identified in the following example:
+Subtask B continues from the output of Subtask A, by linking the entities detected and labelled in the input document. The purpose of this subtask is to recognize all relevant semantic relationships between the entities recognized. Eight of the thirteen semantic relations defined for this challenge can be identified in the following example:
 
 ![](../img/task_b.png)
 
