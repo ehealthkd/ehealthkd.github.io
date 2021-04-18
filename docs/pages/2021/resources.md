@@ -40,11 +40,11 @@ In respect of the ethics of the competition, we kindly ask participants **not** 
 
 - [🏋️ Training data](https://github.com/ehealthkd/corpora/tree/master/2021/ref/training)
 - [🏋️ Develop data](https://github.com/ehealthkd/corpora/tree/master/2021/ref/develop)
-- [🏋️ Testing data](https://github.com/ehealthkd/corpora/tree/master/2021/eval/testing)
+- [🏋️ Testing data (for evaluation)](https://github.com/ehealthkd/corpora/tree/master/2021/eval/testing)
 
 ## Evaluation and utility scripts
 
-Evaluation scripts will be provided so that participants can test offline their systems with respect to the same metrics used in the challenge. Since participants will not have access to the test gold annotations, their offline performance will need to be evaluated in the development set. This metric will not be exactly the same as the one obtained in the test set, but it should serve for participants to compare different strategies and perform hyper-parameter tunning.
+Evaluation scripts will be provided so that participants can test their systems offline with respect to the same metrics used in the challenge. Since participants will not have access to the test gold annotations, their offline performance will need to be evaluated in the development set. This metric will not be exactly the same as the one obtained in the test set, but it should serve for participants to compare different strategies and perform hyper-parameter tunning.
 
 A [utility script](https://github.com/ehealthkd/corpora/tree/master/scripts) to load, manipulate, and save ANN files is provided. Instructions for its use are available at that location.
 

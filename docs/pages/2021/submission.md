@@ -336,4 +336,6 @@ Double check that when you open your zip file, the root of the archive contains 
 
 Upload this .zip file to Codalab and wait a few seconds. You might need to hit "Refresh" a couple of times.
 
-When you're confident, you can submit to the [**Official Server**]() instead of the development server. 
+When you're confident, you can submit to the [**Official Server**](https://competitions.codalab.org/competitions/30830) instead of the development server. 
+
+> ⚠️ **NOTE**: In the **Official Server** you don't need to provide the `training` or `develop` submissions (but you are free to do so as well, the scoring script won't complaint). Only the output inside of `testing` will be considered for the competition.

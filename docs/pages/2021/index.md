@@ -8,6 +8,8 @@ layout: "2021"
 
 > ### 🗨️ Follow [@EHealthKD](https://twitter.com/EhealthKd) on Twitter for up-to-date information. 
 
+> ### 🏆 As of **April 19th, 2020** the [**Official Server**](https://competitions.codalab.org/competitions/30830) is up and running!
+
 ---
 
 Natural Language Processing (NLP) methods are increasingly being used to mine knowledge from unstructured health texts. Recent advances in health text processing techniques are encouraging researchers and health domain experts to go beyond just reading the information included in published texts (e.g. academic manuscripts, clinical reports, etc.) and structured questionnaires, to discover new knowledge by mining health contents. This has allowed other perspectives to surface that were not previously available.
@@ -49,7 +51,10 @@ All the resources are available in the [eHealth-KD corpora repository](https://g
 
 ## Submission
 
-The challenge will be graded on [Codalab.org](https://competitions.codalab.org). Check out the [submission instructions](/2021/submission) for more details. There is an ongoing [training competition](https://competitions.codalab.org/competitions/30333) already hosted where you can try your system on the training dataset and development, to get acquainted with the submission workflow.
+> ### 🏆 [**Go to the Official Server**](https://competitions.codalab.org/competitions/30830)
+
+The challenge will be graded on [Codalab.org](https://competitions.codalab.org). Check out the [submission instructions](/2021/submission) for more details. There is also an ongoing [training competition](https://competitions.codalab.org/competitions/30333) already hosted where you can try your system on the training dataset and development, to get acquainted with the submission workflow before trying the [official server](https://competitions.codalab.org/competitions/30830).
+
 
 ## Schedule
 
@@ -57,7 +62,7 @@ The challenge will be graded on [Codalab.org](https://competitions.codalab.org).
 |---|---|---|
 | 08&nbsp;Mar&nbsp;2021 | 🏋️ Training data released                                       | [💾 Training set](https://github.com/ehealthkd/corpora/tree/master/2021/ref/training)<br>[🔧 Utility scripts](https://github.com/ehealthkd/corpora/tree/master/scripts) |
 | 29&nbsp;Mar&nbsp;2021 | 🏃 Development data released                                    | [💾 Develop set](https://github.com/ehealthkd/corpora/tree/master/2021/ref/develop)|
-| ~~05&nbsp;Apr&nbsp;2021~~<br>19&nbsp;Apr&nbsp;2021 | ⚗️ **Evaluation period begins** -- test data released            | |
+| ~~05&nbsp;Apr&nbsp;2021~~<br>19&nbsp;Apr&nbsp;2021 | ⚗️ **Evaluation period begins** -- test data released            | [💾 Test set](https://github.com/ehealthkd/corpora/tree/master/2021/ref/testing)<br>[🏆 Official server](https://competitions.codalab.org/competitions/30830) |
 | ~~19&nbsp;Apr&nbsp;2021~~<br>26&nbsp;Apr&nbsp;2021 | 🤯 **Evaluation period ends** -- due by 23:59 GMT-12 (AoE)      | |
 | ~~26&nbsp;Apr&nbsp;2021~~<br>30&nbsp;Apr&nbsp;2021 | 🏆 Results posted                                               | |
 | 10&nbsp;May&nbsp;2021 | 🗞️ System descriptions due -- closes by 23:59 GMT-12 (AoE)      | |
