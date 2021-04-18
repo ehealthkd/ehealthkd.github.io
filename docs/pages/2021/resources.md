@@ -22,14 +22,25 @@ All resources will be distributed in the [eHealthKD corpora repository](https://
 
 The corpus will be divided into three sections. Training and development sets are published along with baseline implementations, for participants to train and fine-tune their systems. These files consist of both plain text input and the expected outputs for both subtasks. 
 
-Afterward, a small test set will be released, with plain text only, further divided into 3 sub-sets, one for each scenario. Participants are expected to submit the corresponding output files.
-
 In no case, participants will be able to access the correct output files for the test set before the challenge ends. Afterward, the full corpus, including Brat-annotated files will be freely available under a suitable license for the research community.
+
+## Testing data
+
+The testing data is available in the `eval/testing` folder.
+
+The folder `scenario1-main` contains `3000` sentences. The first `2700` are in Spanish and the last `300` are in English. Of these, only `50` in each language will be used for evaluation (the rest are provided to discourage manual annotation), but you must output annotations for all of the sentences, since the reference sentences are shuffled. 
+
+Teams that prefer to participate only in one language can ignore the remaining sentences and not output annotations for them. **However**, make sure to respect character positions to maintain the alignment with the reference annotations. For example, if you are ignoring the Spanish sentences, then your first entity annotation should start around char 195,700 which is roughly where English sentences begin.
+
+Folders `scenario2-taskA` and `scenario3-taskB` contains `50` Spanish sentences and `50` English sentences in that order.
+
+In respect of the ethics of the competition, we kindly ask participants **not** to manually review the testing output, beyond the minimum necessary to guarantee there are no implementation errors. Especially, please do not manually annotate any of the test-set sentences, evaluate your predicted annotations, or make any design decision based on perceived performance of the test set. Doing so would incur in overfitting the testing data and diminish the value of the challenge for all participants.
 
 ### Download links:
 
 - [🏋️ Training data](https://github.com/ehealthkd/corpora/tree/master/2021/ref/training)
 - [🏋️ Develop data](https://github.com/ehealthkd/corpora/tree/master/2021/ref/develop)
+- [🏋️ Testing data](https://github.com/ehealthkd/corpora/tree/master/2021/eval/testing)
 
 ## Evaluation and utility scripts
 
@@ -51,7 +62,6 @@ Check out [the submission section](/2021/submission) for details on running the 
 
 - [🔧 Baseline implementation](https://github.com/ehealthkd/corpora/tree/master/scripts/baseline.py)
 - [🔧 Scoring script](https://github.com/ehealthkd/corpora/tree/master/scripts/score.py)
-
 
 # Additional resources
 

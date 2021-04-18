@@ -291,13 +291,37 @@ scenario3_best:run1
 
 > 👉 As you might expect, the results from the baseline are significantly worse in new data than on training data.
 
+## Runing on training and evaluating on the test set
+
+
+Now that the development set is released, you can train your system on the `ref/training` and evaluate it  on the `eval/testing` dataset to perform an official submission. We recommend you to run the baseline first (and even submit it to Codalab) to get an idea for the whole process. Notice that you won't be able to see score until after the competition is finished, but you will get error messages if something is wrong with the submission format. Since the testing scenario is somewhat large, the baseline will take a couple of minutes to finish.
+
+```bash
+$ python3 scripts/baseline.py \
+    --ref 2021/ref/training \
+    --eval 2021/eval/testing \
+    --submit 2021/submissions/baseline/testing/run1
+
+Loaded 1500 sentences for fitting.
+Training completed: Stored 4635 keyphrases and 8535 relation pairs.
+Evaluating on 2021/eval/testing/scenario1-main.
+Loaded 3000 input sentences.
+Writing output to 2021/submissions/baseline/testing/run1/scenario1-main
+Evaluating on 2021/eval/testing/scenario2-taskA.
+Loaded 100 input sentences.
+Writing output to 2021/submissions/baseline/testing/run1/scenario2-taskA
+Evaluating on 2021/eval/testing/scenario3-taskB.
+Loaded 100 input sentences.
+Writing output to 2021/submissions/baseline/testing/run1/scenario3-taskB
+```
+
 ## Submitting the results
 
 Once you've checked your results, you'll want to submit them to Codalab to appear in the leaderboard. During the whole challenge we will running a training server where you can test the whole workflow. This training server will evaluate your score on the `eval/training` and `eval/develop` datasets.
 
 > 📝 Once the test set is released, we will open a new server for you to submit the final output that you run on the `eval/testing` dataset.
 
-Navigate to [eHealth-KD 2021 Codalab](https://competitions.codalab.org/competitions/30333). You will need to sign-in to Codalab (or register if you haven't). Once in the competition page, look for the "Participate" section, and then the "Submit / View results" subsection. You'll see a big "Submit" button that will prompt you for a .zip file.
+Navigate to [**eHealth-KD 2021 Development Server**](https://competitions.codalab.org/competitions/30333). You will need to sign-in to Codalab (or register if you haven't). Once in the competition page, look for the "Participate" section, and then the "Submit / View results" subsection. You'll see a big "Submit" button that will prompt you for a .zip file.
 
 To create this zip file, `cd` into your submission folder, and zip its content. For example:
 
@@ -311,3 +335,5 @@ Double check that when you open your zip file, the root of the archive contains 
 > ⚠️ The root of the archive **must not** contain a single `<team>` folder, but directly the `training` folder and so on. Otherwise the evaluation script will fail. When in doubt, check the `corpora/submissions/baseline/submission.zip` file in the original repository.
 
 Upload this .zip file to Codalab and wait a few seconds. You might need to hit "Refresh" a couple of times.
+
+When you're confident, you can submit to the [**Official Server**]() instead of the development server. 
