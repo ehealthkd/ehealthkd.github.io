@@ -6,7 +6,7 @@ layout: "2021"
 
 # Submission details
 
-The participating systems of eHealth-KD 2021 challenge can be trained at [Codalab Training](https://competitions.codalab.org/competitions/30333). We have prepared a baseline implementation to guide you through the submission process. And **the testing phase will be played at [Codalab Testing](https://competitions.codalab.org/competitions/30830)**
+The participating systems of eHealth-KD 2021 challenge can be trained at [Codalab Training](https://competitions.codalab.org/competitions/30333). We have prepared a baseline implementation to guide you through the submission process. And **the testing phase will be played at [Codalab Testing](https://competitions.codalab.org/competitions/30830).**
 
 ## Getting the training data
 
