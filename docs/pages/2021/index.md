@@ -63,8 +63,8 @@ The challenge will be graded on [Codalab.org](https://competitions.codalab.org).
 | 08&nbsp;Mar&nbsp;2021 | 🏋️ Training data released                                       | [💾 Training set](https://github.com/ehealthkd/corpora/tree/master/2021/ref/training)<br>[🔧 Utility scripts](https://github.com/ehealthkd/corpora/tree/master/scripts) |
 | 29&nbsp;Mar&nbsp;2021 | 🏃 Development data released                                    | [💾 Develop set](https://github.com/ehealthkd/corpora/tree/master/2021/ref/develop)|
 | ~~05&nbsp;Apr&nbsp;2021~~<br>19&nbsp;Apr&nbsp;2021 | ⚗️ <span style="color:red"> **Evaluation period begins** -- test data released </span>            | [💾 Test set](https://github.com/ehealthkd/corpora/tree/master/2021/eval/testing)<br>[🏆 Official server](https://competitions.codalab.org/competitions/30830) |
-| ~~19&nbsp;Apr&nbsp;2021~~<br>26&nbsp;Apr&nbsp;2021 | 🤯 **Evaluation period ends** -- due by 23:59 GMT-12 (AoE)      | |
-| ~~26&nbsp;Apr&nbsp;2021~~<br>30&nbsp;Apr&nbsp;2021 | 🏆 Results posted                                               | |
+| ~~19&nbsp;Apr&nbsp;2021~~<br>30&nbsp;Apr&nbsp;2021 | 🤯 **Evaluation period ends** -- due by 23:59 GMT-12 (AoE)      | |
+| ~~26&nbsp;Apr&nbsp;2021~~<br>03&nbsp;May&nbsp;2021 | 🏆 Results posted                                               | |
 | 10&nbsp;May&nbsp;2021 | 🗞️ System descriptions due -- closes by 23:59 GMT-12 (AoE)      | |
 | 24&nbsp;May&nbsp;2021 | 📝 Papers reviews due                                           | |
 | 31&nbsp;May&nbsp;2021 | 💌 Authors notifications                                        | |
