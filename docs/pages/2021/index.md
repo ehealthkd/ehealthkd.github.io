@@ -100,6 +100,7 @@ In the following link you can find the preliminar bibtexts of the systems’ wor
   year      = {2021},
 }
 ````
+Please **submit your working notes to [chairs_eHealth-KD@googlegroups.com](mailto:chairs_eHealth-KD@googlegroups.com)** and have in mind the [deadline](https://ehealthkd.github.io/2021#schedule).
 
 ## Organization committee
 
