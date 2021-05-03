@@ -76,9 +76,12 @@ The challenge will be graded on [Codalab.org](https://competitions.codalab.org).
 
 The Organization Committee of eHealth-KD encourages participants to submit a description paper of their systems. Submitted papers will be reviewed by a scientific committee, and only accepted papers will be published at [CEUR](http://ceur-ws.org/). The proceedings of eHealth-KD will be jointly published with the proceedings of all tasks of IberLEF 2021. The submitted papers will be peer-reviewed by a Program Committee which is composed by all the participants and the Organization Committee.
 
-Articles must be written in English, five pages minimun.
-The document format can be Word or LaTeX, but the submission must be in PDF format.
-Please make sure to follow all the additional instructions provided in the template and respect the layout and formatting.
+- Articles must be written in English, five pages minimun.
+- The document format can be Word or LaTeX, but the submission must be in PDF format.
+- Please make sure to follow all the additional instructions provided in the template and respect the layout and formatting:
+  - "The new style is available via our proceedings volume template at <http://ceur-ws.org/Vol-XXX/>
+  - Overleaf users can clone the style from <https://www.overleaf.com/read/gwhxnqcghhdt>
+  - Offline versions for LaTeX and DOCX are available from <http://ceur-ws.org/Vol-XXX/CEURART.zip>
 
 Depending on the final number of participants and the time allocated for the workshop, all or a selected group of papers will be presented and discussed in the Workshop session.
 
@@ -88,7 +91,6 @@ In the following link you can find the preliminar bibtexts of the systems’ wor
 @inproceedings{overview_ehealthkd2021,
   author    = {Piad{-}Morffis, Alejandro and
                Guti{\'{e}}rrez, Yoan and
-               Ca{\~{n}}izares-Diaz, Hian and
                Estevez{-}Velarde, Suilan and 
                Almeida{-}Cruz, Yudivi{\'{a}}n and
                Mu{\~{n}}oz, Rafael and
