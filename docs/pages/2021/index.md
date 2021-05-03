@@ -82,6 +82,22 @@ Please make sure to follow all the additional instructions provided in the templ
 
 Depending on the final number of participants and the time allocated for the workshop, all or a selected group of papers will be presented and discussed in the Workshop session.
 
+### How to cite the challenge and the systems’ working-notes
+In the following link you can find the preliminar bibtexts of the systems’ working-notes. In addition, to cite the eHealth-Kd challenge you can use the following preliminar bibtext:
+
+@inproceedings{overview_ehealthkd2021,
+  author    = {Piad{-}Morffis, Alejandro and
+               Guti{\'{e}}rrez, Yoan and
+               Ca{\~{n}}izares-Diaz, Hian and
+               Estevez{-}Velarde, Suilan and 
+               Almeida{-}Cruz, Yudivi{\'{a}}n and
+               Mu{\~{n}}oz, Rafael and
+               Montoyo, Andr{\'{e}}s},
+  title     = {Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2021},
+  booktitle = ,
+  year      = {2021},
+}
+
 ## Organization committee
 
 | Name                     | Email                                                 | Institution                   |
