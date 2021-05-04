@@ -136,7 +136,7 @@ Depending on the final number of participants and the time allocated for the wor
 
 ### How to cite the challenge and the systems’ working-notes
 We will provide preliminar bibtexts of the systems’ working-notes before the camera ready version. In addition, to cite the eHealth-Kd challenge you can use the following preliminar bibtext:
-````bibtext
+````bibtex 
 @inproceedings{overview_ehealthkd2021,
   author    = {Piad{-}Morffis, Alejandro and
                Guti{\'{e}}rrez, Yoan and
@@ -172,7 +172,8 @@ Follow [@eHealthKD](https://twitter.com/eHealthKD) on Twitter for up-to-date new
 
 ### Funding
 
-This research has been supported by a Carolina Foundation grant in agreement with University of Alicante and University of Havana. Moreover, it has also been partially funded by both aforementioned universities, IUII, Generalitat Valenciana, Spanish Government, Ministerio de Educación, Cultura y Deporte through the projects SIIA (PROMETEU/2018/089) and LIVINGLANG (RTI2018-094653-B-C22).
+This challenge has been supported by a Carolina Foundation grant in agreement with University of Alicante and University of Havana. Moreover, it has also been partially funded by both aforementioned universities, IUII, Generalitat Valenciana, Spanish Government, Ministerio de Educación, Cultura y Deporte through the projects TECNOLOGÍAS DEL LENGUAJE HUMANO PARA UNA SOCIEDAD INCLUSIVA IGUALITARIA Y ACCESIBLE (PROMETEU/2018/089), LIVING-LANG: MODELADO DEL COMPORTAMIENTO DE ENTIDADES DIGITALES MEDIANTE TECNOLOGIAS DEL LENGUAJE HUMANO(RTI2018-094653-B-C22) and INTEGER:Intelligent Text Generation, GENERACION INTELIGENTE DE TEXTOS (RTI2018-094649-B-I00).
+In addition, the challenge is also based upon work from COST Actions CA19134 - “Distributed Knowledge Graphs” and CA19142 - “Leading Platform for European Citizens, Industries, Academia and Policymakers in Media Accessibility”.
 
 <center>
 <img src="img/ua-logo.png" width="400px" style="margin-bottom: 50px;">
