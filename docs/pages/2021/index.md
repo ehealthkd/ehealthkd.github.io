@@ -136,8 +136,7 @@ Depending on the final number of participants and the time allocated for the wor
 
 ### How to cite the challenge and the systems’ working-notes
 We will provide preliminar bibtexts of the systems’ working-notes before the camera ready version. In addition, to cite the eHealth-Kd challenge you can use the following preliminar bibtext:
-````
-bibtext
+````bibtext
 @inproceedings{overview_ehealthkd2021,
   author    = {Piad{-}Morffis, Alejandro and
                Guti{\'{e}}rrez, Yoan and
