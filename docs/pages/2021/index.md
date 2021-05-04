@@ -6,9 +6,9 @@ layout: "2021"
 
 # IberLEF eHealth Knowledge Discovery Challenge 2021
 
-> ### 🗨️ Follow [@EHealthKD](https://twitter.com/EhealthKd) on Twitter for up-to-date information. 
+> ### 🗨️ Follow [@EHealthKD](https://twitter.com/EhealthKd) on Twitter for up-to-date information.
 
-> ### 🏆 As of **April 19th, 2020** the [**Official Server**](https://competitions.codalab.org/competitions/30830) is up and running!
+> ### 🏆 As of **May 4th, 2021** the official results are available (read below)!
 
 ---
 
@@ -25,6 +25,56 @@ The following sections provide a detailed presentation of each unit and relation
 ![](../img/task_b.png)
 
 This challenge can be of interest to experts in the field of natural language processing, specifically for those working on automatic knowledge extraction and discovery. It is not a requirement to have expertise in health text processing for dealing with the eHealth-KD task, due to the general purpose of the semantic schema defined. Nevertheless, eHealth researchers could find interesting this challenge to evaluate their technologies that rely on health domain knowledge.
+
+## 🏆 Official results
+
+The official results for Scenarios 1, 2, and 3 are presented next. You can download [CSV](/assets/results_2021.csv)) and [JSON](/assets/results_2021.json) formats of these results.
+
+> ⚠️ **NOTE**: Team names have been taken from Codalab user names. Please contact us to update the official names for the teams.
+>
+> Only participants that submitted for each specific scenario are shown.
+
+### Scenario 1 (Main Evaluation)
+
+| | Team | F1 | Precision | Recall |
+|-|------|----|-----------|--------|
+|🥇| nperez          | 0.53106 | 0.54075 | 0.53464 |
+|🥈| ThiagoCF05      | 0.52835 | 0.56849 | 0.50276 |
+|🥉| EdgarAndres     | 0.49886 | 0.46457 | 0.53863 |
+|  | dayanyalfaro    | 0.42264 | 0.48529 | 0.37431 |
+|  | lorainemg       | 0.33865 | 0.29163 | 0.40374 |
+|  | CodestrangeTeam | 0.23201 | 0.33703 | 0.17689 |
+|  | baseline        | 0.23201 | 0.33703 | 0.17689 |
+|  | TTigre1         | 0.10949 | 0.23441 | 0.07143 |
+
+
+### Scenario 2 (Task A)
+
+| | Team | F1 | Precision | Recall |
+|-|------|----|-----------|--------|
+|🥇| ThiagoCF05     | 0.70601   | 0.71491  | 0.69733 |
+|🥈| nperez         | 0.68413   | 0.69987  | 0.74706 |
+|🥉| EdgarAndres    | 0.65333   | 0.61372  | 0.6984  |
+| | lorainemg       | 0.60769   | 0.54604  | 0.68503 |
+| | dayanyalfaro    | 0.52728   | 0.51751  | 0.53743 |
+| | GuanZhengyi     | 0.33406   | 0.52036  | 0.24599 |
+| | baseline        | 0.30602   | 0.35034  | 0.27166 |
+| | jnavarro        | 0.2625    | 0.31579  | 0.2246  |
+| | Maoqin          | 0.17322   | 0.27107  | 0.12727 |
+| | CodestrangeTeam | 0.08019   | 0.415    | 0.04439 |
+
+### Scenario 3 (Task B)
+
+| | Team | F1 | Precision | Recall |
+|-|------|----|-----------|--------|
+|🥇| EdgarAndres    | 0.4304  | 0.45357 | 0.40948 |
+|🥈| nperez         | 0.37191 | 0.54186 | 0.28311 |
+|🥉| dayanyalfaro   | 0.31771 | 0.55623 | 0.22236 |
+| | ThiagoCF05      | 0.26324 | 0.36659 | 0.20535 |
+| | lorainemg       | 0.05384 | 0.07727 | 0.04131 |
+| | CodestrangeTeam | 0.03275 | 0.4375  | 0.01701 |
+| | baseline        | 0.03275 | 0.4375  | 0.01701 |
+| | jnavarro        | 0.00722 | 0.375   | 0.00365 |
 
 ## Description of the Subtasks
 
@@ -79,19 +129,18 @@ The Organization Committee of eHealth-KD encourages participants to submit a des
 - Articles must be written in English, five pages minimun.
 - The document format can be Word or LaTeX, but the submission must be in PDF format.
 - Please make sure to follow all the additional instructions provided in the template and respect the layout and formatting:
-  - "The new style is available via our proceedings volume template at <http://ceur-ws.org/Vol-XXX/>
-  - Overleaf users can clone the style from <https://www.overleaf.com/read/gwhxnqcghhdt>
-  - Offline versions for LaTeX and DOCX are available from <http://ceur-ws.org/Vol-XXX/CEURART.zip>
+  - Overleaf users can clone [this project](https://www.overleaf.com/read/fkmpqcfthjcf), which also contains some additional instructions specific to the eHealth-KD Challenge ([PDF version here](/assets/Instructions2021.pdf)).
+  - Offline versions for LaTeX and DOCX are available from [CEUR](http://ceur-ws.org/Vol-XXX/CEURART.zip), but please **make sure** to read the official instructions in the previous link.
 
 Depending on the final number of participants and the time allocated for the workshop, all or a selected group of papers will be presented and discussed in the Workshop session.
 
 ### How to cite the challenge and the systems’ working-notes
-In the following link you can find the preliminar bibtexts of the systems’ working-notes. In addition, to cite the eHealth-Kd challenge you can use the following preliminar bibtext:
+We will provide preliminar bibtexts of the systems’ working-notes before the camera ready version. In addition, to cite the eHealth-Kd challenge you can use the following preliminar bibtext:
 ````
 @inproceedings{overview_ehealthkd2021,
   author    = {Piad{-}Morffis, Alejandro and
                Guti{\'{e}}rrez, Yoan and
-               Estevez{-}Velarde, Suilan and 
+               Estevez{-}Velarde, Suilan and
                Almeida{-}Cruz, Yudivi{\'{a}}n and
                Mu{\~{n}}oz, Rafael and
                Montoyo, Andr{\'{e}}s},
