@@ -39,7 +39,7 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 | | Team | F1 | Precision | Recall |
 |-|------|----|-----------|--------|
 |🥇| Vicomtech          | 0.53106 | 0.54075 | 0.53464 |
-|🥈| ThiagoCF05      | 0.52835 | 0.56849 | 0.50276 |
+|🥈| PUCs-UFMG      | 0.52835 | 0.56849 | 0.50276 |
 |🥉| EdgarAndres     | 0.49886 | 0.46457 | 0.53863 |
 |  | dayanyalfaro    | 0.42264 | 0.48529 | 0.37431 |
 |  | lorainemg       | 0.33865 | 0.29163 | 0.40374 |
@@ -52,7 +52,7 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 
 | | Team | F1 | Precision | Recall |
 |-|------|----|-----------|--------|
-|🥇| ThiagoCF05     | 0.70601   | 0.71491  | 0.69733 |
+|🥇| PUCs-UFMG     | 0.70601   | 0.71491  | 0.69733 |
 |🥈| Vicomtech         | 0.68413   | 0.69987  | 0.74706 |
 |🥉| EdgarAndres    | 0.65333   | 0.61372  | 0.6984  |
 | | lorainemg       | 0.60769   | 0.54604  | 0.68503 |
@@ -70,7 +70,7 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 |🥇| EdgarAndres    | 0.4304  | 0.45357 | 0.40948 |
 |🥈| Vicomtech         | 0.37191 | 0.54186 | 0.28311 |
 |🥉| dayanyalfaro   | 0.31771 | 0.55623 | 0.22236 |
-| | ThiagoCF05      | 0.26324 | 0.36659 | 0.20535 |
+| | PUCs-UFMG      | 0.26324 | 0.36659 | 0.20535 |
 | | lorainemg       | 0.05384 | 0.07727 | 0.04131 |
 | | CodestrangeTeam | 0.03275 | 0.4375  | 0.01701 |
 | | baseline        | 0.03275 | 0.4375  | 0.01701 |
