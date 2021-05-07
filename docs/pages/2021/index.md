@@ -115,7 +115,7 @@ The challenge will be graded on [Codalab.org](https://competitions.codalab.org).
 | ~~05&nbsp;Apr&nbsp;2021~~<br>19&nbsp;Apr&nbsp;2021 | ⚗️  **Evaluation period begins** -- test data released            | [💾 Test set](https://github.com/ehealthkd/corpora/tree/master/2021/eval/testing)<br>[🏆 Official server](https://competitions.codalab.org/competitions/30830) |
 | ~~19&nbsp;Apr&nbsp;2021~~<br>30&nbsp;Apr&nbsp;2021 | <span style="color:red"> 🤯 **Evaluation period ends** </span> -- due by 23:59 GMT-12 (AoE)      | |
 | ~~26&nbsp;Apr&nbsp;2021~~<br>03&nbsp;May&nbsp;2021 | 🏆 Results posted                                               | |
-| 10&nbsp;May&nbsp;2021 | 🗞️ System descriptions due -- closes by 23:59 GMT-12 (AoE)      | |
+| ~~10&nbsp;May&nbsp;2021~~<br>16&nbsp;May&nbsp;2021 | 🗞️ System descriptions due -- closes by 23:59 GMT-12 (AoE)      | |
 | 24&nbsp;May&nbsp;2021 | 📝 Papers reviews due                                           | |
 | 31&nbsp;May&nbsp;2021 | 💌 Authors notifications                                        | |
 | 14&nbsp;Jun&nbsp;2021 | 📸 Camera ready submissions due -- closes by 23:59 GMT-12 (AoE) | |
