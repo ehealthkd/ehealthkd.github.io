@@ -41,7 +41,7 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 |🥇| Vicomtech         | 0.53106 | 0.54075 | 0.53464 |
 |🥈| PUCRJ-PUCPR-UFMG  | 0.52835 | 0.56849 | 0.50276 |
 |🥉| EdgarAndres (IXA) | 0.49886 | 0.46457 | 0.53863 |
-|  | dayanyalfaro      | 0.42264 | 0.48529 | 0.37431 |
+|  | uhKD4             | 0.42264 | 0.48529 | 0.37431 |
 |  | UH-MMM            | 0.33865 | 0.29163 | 0.40374 |
 |  | CodestrangeTeam   | 0.23201 | 0.33703 | 0.17689 |
 |  | baseline          | 0.23201 | 0.33703 | 0.17689 |
@@ -56,10 +56,10 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 |🥈| Vicomtech         | 0.68413   | 0.69987  | 0.74706 |
 |🥉| EdgarAndres (IXA) | 0.65333   | 0.61372  | 0.6984  |
 |  | UH-MMM            | 0.60769   | 0.54604  | 0.68503 |
-|  | dayanyalfaro      | 0.52728   | 0.51751  | 0.53743 |
+|  | uhKD4             | 0.52728   | 0.51751  | 0.53743 |
 |  | GuanZhengyi       | 0.33406   | 0.52036  | 0.24599 |
 |  | baseline          | 0.30602   | 0.35034  | 0.27166 |
-|  | jnavarro          | 0.2625    | 0.31579  | 0.2246  |
+|  | TTigre1           | 0.2625    | 0.31579  | 0.2246  |
 |  | Maoqin            | 0.17322   | 0.27107  | 0.12727 |
 |  | CodestrangeTeam   | 0.08019   | 0.415    | 0.04439 |
 
@@ -69,12 +69,12 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 |-|------|----|-----------|--------|
 |🥇| EdgarAndres (IXA) | 0.4304  | 0.45357 | 0.40948 |
 |🥈| Vicomtech         | 0.37191 | 0.54186 | 0.28311 |
-|🥉| dayanyalfaro      | 0.31771 | 0.55623 | 0.22236 |
+|🥉| uhKD4             | 0.31771 | 0.55623 | 0.22236 |
 |  | PUCRJ-PUCPR-UFMG  | 0.26324 | 0.36659 | 0.20535 |
 |  | UH-MMM            | 0.05384 | 0.07727 | 0.04131 |
 |  | CodestrangeTeam   | 0.03275 | 0.4375  | 0.01701 |
 |  | baseline          | 0.03275 | 0.4375  | 0.01701 |
-|  | jnavarro          | 0.00722 | 0.375   | 0.00365 |
+|  | TTigre1           | 0.00722 | 0.375   | 0.00365 |
 
 ## Description of the Subtasks
 
