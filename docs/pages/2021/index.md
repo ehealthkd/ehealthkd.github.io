@@ -144,8 +144,8 @@ We will provide preliminar bibtexts of the systems’ working-notes before the c
                Almeida{-}Cruz, Yudivi{\'{a}}n and
                Mu{\~{n}}oz, Rafael and
                Montoyo, Andr{\'{e}}s},
-  title     = {{Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2021}},
-  booktitle = {{Proceedings of the Iberian Languages Evaluation Forum}},
+  title     = {Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2021},
+  booktitle = {Proceedings of the Iberian Languages Evaluation Forum},
   year      = {2021},
 }
 ````
