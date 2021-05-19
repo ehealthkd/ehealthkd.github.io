@@ -146,7 +146,7 @@ We will provide preliminar bibtexts of the systems’ working-notes before the c
                Montoyo, Andr{\'{e}}s},
   title     = {Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2021},
   booktitle = {Proceedings of the Iberian Languages Evaluation Forum},
-  year      = {2021},
+  year      = {2021}
 }
 ````
 Please **submit your working notes to [chairs_eHealth-KD@googlegroups.com](mailto:chairs_eHealth-KD@googlegroups.com)** and have in mind the [deadline](https://ehealthkd.github.io/2021#schedule).
