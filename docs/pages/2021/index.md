@@ -145,10 +145,20 @@ We will provide preliminar bibtexts of the systems’ working-notes before the c
                Mu{\~{n}}oz, Rafael and
                Montoyo, Andr{\'{e}}s},
   title     = {Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2021},
-  booktitle = {Proceedings of the Iberian Languages Evaluation Forum},
+  journal = {Procesamiento del Lenguaje Natural},
   year      = {2021}
 }
 ````
+Preliminar IberLEF 2021 proceedings:
+````bibtex
+@inproceedings{overview_ehealthkd2021,
+  author    = {Montes, Paolo Rosso, Julio Gonzalo, Ezra Aragón, Rodrigo Agerri, Miguel Ángel Álvarez-Carmona, Elena Álvarez Mellado, Jorge Carrillo-de-Albornoz, Luis Chiruzzo, Larissa Freitas, Helena Gómez Adorno, Yoan Gutiérrez, Salvador Lima, Arturo Montejo-Ráez, Flor Miriam Plaza-de-Arco and Mariona Taulé},
+  title     = {Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2021)},
+  booktitle = {CEUR Workshop Proceedings},
+  year      = {2021}
+}
+````
+
 Please **submit your working notes to [chairs_eHealth-KD@googlegroups.com](mailto:chairs_eHealth-KD@googlegroups.com)** and have in mind the [deadline](https://ehealthkd.github.io/2021#schedule).
 
 ## Organization committee
