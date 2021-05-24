@@ -152,7 +152,22 @@ We will provide preliminar bibtexts of the systems’ working-notes before the c
 Preliminar IberLEF 2021 proceedings:
 ````bibtex
 @inproceedings{iberlef2021,
-  author    = {Montes, Paolo Rosso, Julio Gonzalo, Ezra Aragón, Rodrigo Agerri, Miguel Ángel Álvarez-Carmona, Elena Álvarez Mellado, Jorge Carrillo-de-Albornoz, Luis Chiruzzo, Larissa Freitas, Helena Gómez Adorno, Yoan Gutiérrez, Salvador Lima, Arturo Montejo-Ráez, Flor Miriam Plaza-de-Arco and Mariona Taulé},
+  author    = {Montes, Manuel and
+  Rosso, Paolo and 
+  Gonzalo, Julio and
+  Arag{\'{o}}n, Ezra and
+  Agerri, Rodrigo and
+  {\'{A}}lvarez-Carmona, Miguel {\'{A}}ngel and
+  {\'{A}}lvarez Mellado, Elena and
+  Carrillo-de-Albornoz, Jorge and
+  Chiruzzo, Luis and
+  Freitas, Larissa and
+  G{\'{o}}mez Adorno, Helena and
+  Guti{\'{e}}rrez, Yoan and
+  Lima, Salvador and
+  Montejo-R{\'{a}}ez, Arturo and
+  Plaza-de-Arco, Flor Miriam and
+  Taul{\'{e}}, Mariona},
   title     = {Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2021)},
   booktitle = {CEUR Workshop Proceedings},
   year      = {2021}
