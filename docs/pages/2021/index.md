@@ -146,7 +146,12 @@ We will provide preliminar bibtexts of the systems’ working-notes before the c
                Montoyo, Andr{\'{e}}s},
   title     = {Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2021},
   journal = {Procesamiento del Lenguaje Natural},
-  year      = {2021}
+  volume = {67},
+  number = {0},
+  pages={},
+  year = {2021},
+  keywords = {health, knowledge, machine learning},
+  issn = {1989-7553},
 }
 ````
 Preliminar IberLEF 2021 proceedings:
