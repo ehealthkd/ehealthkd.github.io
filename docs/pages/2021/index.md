@@ -59,7 +59,7 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 |  | uhKD4             | 0.52728   | 0.51751  | 0.53743 | |
 |  | Yunnan-Deep       | 0.33406   | 0.52036  | 0.24599 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/GuanZhengyi_eHealth-KD_2021.bib)|
 |  | baseline          | 0.30602   | 0.35034  | 0.27166 | |
-|  | JAD           | 0.2625    | 0.31579  | 0.2246  | |
+|  | UH-JAD           | 0.2625    | 0.31579  | 0.2246  | |
 |  | Yunnan-1            | 0.17322   | 0.27107  | 0.12727 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Maoqin_eHealth-KD_2021.bib)|
 |  | Codestrange   | 0.08019   | 0.415    | 0.04439 | |
 
@@ -74,7 +74,7 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 |  | UH-MMM            | 0.05384 | 0.07727 | 0.04131 |
 |  | Codestrange   | 0.03275 | 0.4375  | 0.01701 |
 |  | baseline          | 0.03275 | 0.4375  | 0.01701 |
-|  | JAD           | 0.00722 | 0.375   | 0.00365 |
+|  | UH-JAD           | 0.00722 | 0.375   | 0.00365 |
 
 ## Description of the Subtasks
 
