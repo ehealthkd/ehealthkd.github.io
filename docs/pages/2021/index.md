@@ -57,10 +57,10 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 |🥉| EdgarAndres (IXA) | 0.65333   | 0.61372  | 0.6984  | |
 |  | UH-MMM            | 0.60769   | 0.54604  | 0.68503 | |
 |  | uhKD4             | 0.52728   | 0.51751  | 0.53743 | |
-|  | GuanZhengyi       | 0.33406   | 0.52036  | 0.24599 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/GuanZhengyi_eHealth-KD_2021.bib)|
+|  | Yunnan-Deep       | 0.33406   | 0.52036  | 0.24599 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/GuanZhengyi_eHealth-KD_2021.bib)|
 |  | baseline          | 0.30602   | 0.35034  | 0.27166 | |
 |  | JAD           | 0.2625    | 0.31579  | 0.2246  | |
-|  | Maoqin            | 0.17322   | 0.27107  | 0.12727 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Maoqin_eHealth-KD_2021.bib)|
+|  | Yunnan-1            | 0.17322   | 0.27107  | 0.12727 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Maoqin_eHealth-KD_2021.bib)|
 |  | Codestrange   | 0.08019   | 0.415    | 0.04439 | |
 
 ### Scenario 3 (Task B)
