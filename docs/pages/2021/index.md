@@ -137,15 +137,15 @@ Depending on the final number of participants and the time allocated for the wor
 ### How to cite the challenge and the systems’ working-notes
 We will provide preliminar bibtexts of the systems’ working-notes before the camera ready version. In addition, to cite the eHealth-Kd challenge you can use the following preliminar bibtext:
 ````bibtex
-@inproceedings{overview_ehealthkd2021,
+@article{overview_ehealthkd2021,
   author    = {Piad{-}Morffis, Alejandro and
                Guti{\'{e}}rrez, Yoan and
                Estevez{-}Velarde, Suilan and
                Almeida{-}Cruz, Yudivi{\'{a}}n and
                Mu{\~{n}}oz, Rafael and
                Montoyo, Andr{\'{e}}s},
-  title     = {Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2021},
-  journal = {Procesamiento del Lenguaje Natural},
+  title     = {{Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2021}},
+  journal = {{Procesamiento del Lenguaje Natural}},
   volume = {67},
   number = {0},
   pages={},
