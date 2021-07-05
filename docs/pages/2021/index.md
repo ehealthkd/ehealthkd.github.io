@@ -40,7 +40,7 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 |-|------|----|-----------|--------|-------|
 |🥇| Vicomtech         | 0.53106 | 0.54075 | 0.53464 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Vicomtech_eHealth-KD.bib)|
 |🥈| PUCRJ-PUCPR-UFMG  | 0.52835 | 0.56849 | 0.50276 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/PUCRJ_PUCPR_UFMG_eHealth-KD_2021.bib)|
-|🥉| EdgarAndres (IXA) | 0.49886 | 0.46457 | 0.53863 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Edgar_Andres_eHealth-KD_2021.bib)|
+|🥉| IXA | 0.49886 | 0.46457 | 0.53863 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Edgar_Andres_eHealth-KD_2021.bib)|
 |  | uhKD4             | 0.42264 | 0.48529 | 0.37431 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/uhKD4_eHealth-KD_2021.bib)|
 |  | UH-MMM            | 0.33865 | 0.29163 | 0.40374 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/UH-MMM_eHealth-KD_2021.bib)|
 |  | Codestrange   | 0.23201 | 0.33703 | 0.17689 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/CodeStrange_eHealth-KD_2021.bib)|
@@ -54,7 +54,7 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 |-|------|----|-----------|--------|-------|
 |🥇| PUCRJ-PUCPR-UFMG  | 0.70601   | 0.71491  | 0.69733 | |
 |🥈| Vicomtech         | 0.68413   | 0.69987  | 0.74706 | |
-|🥉| EdgarAndres (IXA) | 0.65333   | 0.61372  | 0.6984  | |
+|🥉| IXA | 0.65333   | 0.61372  | 0.6984  | |
 |  | UH-MMM            | 0.60769   | 0.54604  | 0.68503 | |
 |  | uhKD4             | 0.52728   | 0.51751  | 0.53743 | |
 |  | Yunnan-Deep       | 0.33406   | 0.52036  | 0.24599 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/GuanZhengyi_eHealth-KD_2021.bib)|
@@ -67,7 +67,7 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 
 | | Team | F1 | Precision | Recall |
 |-|------|----|-----------|--------|
-|🥇| EdgarAndres (IXA) | 0.4304  | 0.45357 | 0.40948 |
+|🥇| IXA | 0.4304  | 0.45357 | 0.40948 |
 |🥈| Vicomtech         | 0.37191 | 0.54186 | 0.28311 |
 |🥉| uhKD4             | 0.31771 | 0.55623 | 0.22236 |
 |  | PUCRJ-PUCPR-UFMG  | 0.26324 | 0.36659 | 0.20535 |
