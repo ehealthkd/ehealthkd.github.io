@@ -36,7 +36,7 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 
 ### Scenario 1 (Main Evaluation)
 
-| | Team | F1 | Precision | Recall |bibtex|video|paper|
+| | Team | F1 | Precision | Recall |Bibtex|Video|Paper|
 |-|------|----|-----------|--------|-------|-------|-------|
 |🥇| Vicomtech         | 0.53106 | 0.54075 | 0.53464 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Vicomtech_eHealth-KD.bib)| [video](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Vicomtech.mp4)| |
 |🥈| PUCRJ-PUCPR-UFMG  | 0.52835 | 0.56849 | 0.50276 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/PUCRJ_PUCPR_UFMG_eHealth-KD_2021.bib)| | |
@@ -50,7 +50,7 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 
 ### Scenario 2 (Task A)
 
-| | Team | F1 | Precision | Recall |bibtex|video|paper|
+| | Team | F1 | Precision | Recall |bibtex|Video|Paper|
 |-|------|----|-----------|--------|-------|-------|-------|
 |🥇| PUCRJ-PUCPR-UFMG  | 0.70601   | 0.71491  | 0.69733 | | | |
 |🥈| Vicomtech         | 0.68413   | 0.69987  | 0.74706 | | | |
