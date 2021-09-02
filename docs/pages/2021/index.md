@@ -57,7 +57,7 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 |🥉| IXA | 0.65333   | 0.61372  | 0.6984  | |
 |  | UH-MMM            | 0.60769   | 0.54604  | 0.68503 | | | |
 |  | uhKD4             | 0.52728   | 0.51751  | 0.53743 | | | |
-|  | Yunnan-Deep       | 0.33406   | 0.52036  | 0.24599 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/GuanZhengyi_eHealth-KD_2021.bib)| [video](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Vicomtech.mp4)| |
+|  | Yunnan-Deep       | 0.33406   | 0.52036  | 0.24599 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/GuanZhengyi_eHealth-KD_2021.bib)| [video](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Yunnan-Deep.mp4)| |
 |  | baseline          | 0.30602   | 0.35034  | 0.27166 | | | |
 |  | JAD           | 0.2625    | 0.31579  | 0.2246  | | | |
 |  | Yunnan-1            | 0.17322   | 0.27107  | 0.12727 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Maoqin_eHealth-KD_2021.bib)| | |
