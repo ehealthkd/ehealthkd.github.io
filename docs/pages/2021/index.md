@@ -40,7 +40,7 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 |-|------|----|-----------|--------|-------|-------|-------|
 |🥇| Vicomtech         | 0.53106 | 0.54075 | 0.53464 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Vicomtech_eHealth-KD.bib)| [video](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Vicomtech.mp4)| |
 |🥈| PUCRJ-PUCPR-UFMG  | 0.52835 | 0.56849 | 0.50276 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/PUCRJ_PUCPR_UFMG_eHealth-KD_2021.bib)| | |
-|🥉| IXA | 0.49886 | 0.46457 | 0.53863 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Edgar_Andres_eHealth-KD_2021.bib)| [video](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_IXA.mp4)| |
+|🥉| IXA | 0.49886 | 0.46457 | 0.53863 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Edgar_Andres_eHealth-KD_2021.bib)| [video](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_IXA)| |
 |  | uhKD4             | 0.42264 | 0.48529 | 0.37431 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/uhKD4_eHealth-KD_2021.bib)| | |
 |  | UH-MMM            | 0.33865 | 0.29163 | 0.40374 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/UH-MMM_eHealth-KD_2021.bib)| | |
 |  | Codestrange   | 0.23201 | 0.33703 | 0.17689 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/CodeStrange_eHealth-KD_2021.bib)| | |
@@ -50,7 +50,7 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 
 ### Scenario 2 (Task A)
 
-| | Team | F1 | Precision | Recall |bibtex|Video|Paper|
+| | Team | F1 | Precision | Recall |Bibtex|Video|Paper|
 |-|------|----|-----------|--------|-------|-------|-------|
 |🥇| PUCRJ-PUCPR-UFMG  | 0.70601   | 0.71491  | 0.69733 | | | |
 |🥈| Vicomtech         | 0.68413   | 0.69987  | 0.74706 | | | |
