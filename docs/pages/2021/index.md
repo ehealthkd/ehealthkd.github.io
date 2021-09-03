@@ -26,6 +26,23 @@ The following sections provide a detailed presentation of each unit and relation
 
 This challenge can be of interest to experts in the field of natural language processing, specifically for those working on automatic knowledge extraction and discovery. It is not a requirement to have expertise in health text processing for dealing with the eHealth-KD task, due to the general purpose of the semantic schema defined. Nevertheless, eHealth researchers could find interesting this challenge to evaluate their technologies that rely on health domain knowledge.
 
+## Tentative programme
+
+Online on September 21, 2021. Registration requiered at: [CEDI](http://www.hitz.eus/sepln2021/?q=node/12)
+
+| | From | To | Description|
+|-|------|----|------------|
+|-|12:30h|14:00|eHealth-KD 2021: eHealth Knowledge Discovery|
+|-|12:30h|12:50h|[Task overview (eHealth-KD organisers)](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6392)|
+|-|12:50h|13:00h|Vicomtech|
+|-|13:00h|13:10h|PUCRJ-PUCPR-UFMG|
+|-|13:10h|13:20h|IXA|
+|-|13:20h|13:30h|Round of systems' videos|
+|-|13:30h|14:00|Discussion|
+
+
+
+
 ## 🏆 Official results
 
 The official results for Scenarios 1, 2, and 3 are presented next. You can download [CSV](/assets/results_2021.csv)) and [JSON](/assets/results_2021.json) formats of these results.
@@ -38,14 +55,14 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 
 | | Team | F1 | Precision | Recall |Bibtex|Video|Paper|
 |-|------|----|-----------|--------|-------|-------|-------|
-|🥇| Vicomtech         | 0.53106 | 0.54075 | 0.53464 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Vicomtech_eHealth-KD.bib)| [video](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Vicomtech.mp4)| |
-|🥈| PUCRJ-PUCPR-UFMG  | 0.52835 | 0.56849 | 0.50276 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/PUCRJ_PUCPR_UFMG_eHealth-KD_2021.bib)| | |
-|🥉| IXA | 0.49886 | 0.46457 | 0.53863 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Edgar_Andres_eHealth-KD_2021.bib)| [video](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_IXA.mp4)| |
-|  | uhKD4             | 0.42264 | 0.48529 | 0.37431 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/uhKD4_eHealth-KD_2021.bib)| | |
-|  | UH-MMM            | 0.33865 | 0.29163 | 0.40374 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/UH-MMM_eHealth-KD_2021.bib)| | |
-|  | Codestrange   | 0.23201 | 0.33703 | 0.17689 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/CodeStrange_eHealth-KD_2021.bib)| | |
-|  | baseline          | 0.23201 | 0.33703 | 0.17689 | [bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/overview_ehealthkd2021.bib)| | 
-|  | JAD           | 0.10949 | 0.23441 | 0.07143 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/JAD_eHealth-KD_2021.bib)| | |
+|🥇| Vicomtech         | 0.53106 | 0.54075 | 0.53464 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Vicomtech_eHealth-KD.bib)| [🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Vicomtech.mp4)| |
+|🥈| PUCRJ-PUCPR-UFMG  | 0.52835 | 0.56849 | 0.50276 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/PUCRJ_PUCPR_UFMG_eHealth-KD_2021.bib)| | |
+|🥉| IXA | 0.49886 | 0.46457 | 0.53863 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Edgar_Andres_eHealth-KD_2021.bib)| [🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_IXA.mp4)| |
+|  | uhKD4             | 0.42264 | 0.48529 | 0.37431 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/uhKD4_eHealth-KD_2021.bib)| [🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_uhKD4.mp4)| |
+|  | UH-MMM            | 0.33865 | 0.29163 | 0.40374 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/UH-MMM_eHealth-KD_2021.bib)| | |
+|  | Codestrange   | 0.23201 | 0.33703 | 0.17689 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/CodeStrange_eHealth-KD_2021.bib)| | |
+|  | baseline          | 0.23201 | 0.33703 | 0.17689 | [@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/overview_ehealthkd2021.bib)| | 
+|  | JAD           | 0.10949 | 0.23441 | 0.07143 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/JAD_eHealth-KD_2021.bib)| | |
 
 
 ### Scenario 2 (Task A)
@@ -57,10 +74,10 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 |🥉| IXA | 0.65333   | 0.61372  | 0.6984  | |
 |  | UH-MMM            | 0.60769   | 0.54604  | 0.68503 | | | |
 |  | uhKD4             | 0.52728   | 0.51751  | 0.53743 | | | |
-|  | Yunnan-Deep       | 0.33406   | 0.52036  | 0.24599 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/GuanZhengyi_eHealth-KD_2021.bib)| [video](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Yunnan-Deep.mp4)| |
+|  | Yunnan-Deep       | 0.33406   | 0.52036  | 0.24599 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/GuanZhengyi_eHealth-KD_2021.bib)| [🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Yunnan-Deep.mp4)| |
 |  | baseline          | 0.30602   | 0.35034  | 0.27166 | | | |
 |  | JAD           | 0.2625    | 0.31579  | 0.2246  | | | |
-|  | Yunnan-1            | 0.17322   | 0.27107  | 0.12727 |[bibtex](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Maoqin_eHealth-KD_2021.bib)| | |
+|  | Yunnan-1            | 0.17322   | 0.27107  | 0.12727 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Maoqin_eHealth-KD_2021.bib)| | |
 |  | Codestrange   | 0.08019   | 0.415    | 0.04439 | | | |
 
 ### Scenario 3 (Task B)
