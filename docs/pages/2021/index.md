@@ -32,13 +32,13 @@ Online on September 21, 2021. Registration requiered at: [CEDI](http://www.hitz.
 
 | | From | To | Description|
 |-|------|----|------------|
-|-|12:30h|14:00|eHealth-KD 2021: eHealth Knowledge Discovery|
+|-|12:30h|14:00h|eHealth-KD 2021: eHealth Knowledge Discovery|
 |-|12:30h|12:50h|[Task overview (eHealth-KD organisers)](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6392)|
 |-|12:50h|13:00h|Vicomtech|
 |-|13:00h|13:10h|PUCRJ-PUCPR-UFMG|
 |-|13:10h|13:20h|IXA|
 |-|13:20h|13:30h|Round of systems' videos|
-|-|13:30h|14:00|Discussion|
+|-|13:30h|14:00h|Discussion|
 
 
 
