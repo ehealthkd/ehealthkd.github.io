@@ -40,7 +40,7 @@ Online on September 21, 2021. Registration requiered at: [CEDI](http://www.hitz.
 |-|13:20h|13:30h|Round of systems' videos|
 |-|13:30h|14:00h|Discussion|
 
-
+The overall IberLEF workshop program can be found at the [following link](https://sites.google.com/view/iberlef2021/workshop?authuser=0).
 
 
 ## 🏆 Official results
@@ -77,7 +77,7 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 |  | Yunnan-Deep       | 0.33406   | 0.52036  | 0.24599 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/GuanZhengyi_eHealth-KD_2021.bib)| [🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Yunnan-Deep.mp4)| |
 |  | baseline          | 0.30602   | 0.35034  | 0.27166 | | | |
 |  | JAD           | 0.2625    | 0.31579  | 0.2246  | | | |
-|  | Yunnan-1            | 0.17322   | 0.27107  | 0.12727 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Maoqin_eHealth-KD_2021.bib)| | |
+|  | Yunnan-1            | 0.17322   | 0.27107  | 0.12727 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Maoqin_eHealth-KD_2021.bib)|[🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Yunnan-1.mp4) | |
 |  | Codestrange   | 0.08019   | 0.415    | 0.04439 | | | |
 
 ### Scenario 3 (Task B)
