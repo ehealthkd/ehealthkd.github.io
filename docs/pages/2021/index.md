@@ -31,7 +31,7 @@ This challenge can be of interest to experts in the field of natural language pr
 Online on September 21, 2021. Registration requiered at: [CEDI](http://www.hitz.eus/sepln2021/?q=node/12)
 
 | | From | To | Description| Bibtext| Video | Paper|
-|-|------|----|------------|-------|--------|------|
+|-|------|----|---------------------------|----|----|----|
 |-|**12:30h**|**14:00h**|**eHealth-KD 2021: eHealth Knowledge Discovery**|
 |-|12:30h|12:50h|Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2021 *Alejandro Piad-Morfis, Suilan Estevez-Velarde, Yoan Gutierrez, Yudivian Almeida-Cruz, Andrés Montoyo, Rafael Muñoz*| [@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/overview_ehealthkd2021.bib)| | [📄](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6392)| 
 |-|12:50h|13:00h|Vicomtech at eHealth-KD Challenge 2021: Deep Learning Approaches to Model Health-related Text in Spanish. *Aitor García-Pablos, Naiara Perez, and Montse Cuadros*| [@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Vicomtech_eHealth-KD.bib)| [🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Vicomtech.mp4)| [📄](http://ceur-ws.org/Vol-2943/ehealth_paper6.pdf)|
