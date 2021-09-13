@@ -30,15 +30,15 @@ This challenge can be of interest to experts in the field of natural language pr
 
 Online on September 21, 2021. Registration requiered at: [CEDI](http://www.hitz.eus/sepln2021/?q=node/12)
 
-| | From | To | Description|
-|-|------|----|------------|
-|-|12:30h|14:00h|eHealth-KD 2021: eHealth Knowledge Discovery|
-|-|12:30h|12:50h|[Task overview (eHealth-KD organisers)](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6392)|
-|-|12:50h|13:00h|Vicomtech|
-|-|13:00h|13:10h|PUCRJ-PUCPR-UFMG|
-|-|13:10h|13:20h|IXA|
-|-|13:20h|13:30h|Round of systems' videos|
-|-|13:30h|14:00h|Discussion|
+| | From | To | Description| Bibtext| Video | Paper|
+|-|------|----|------------|-------|--------|------|
+|-|**12:30h**|**14:00h**|**eHealth-KD 2021: eHealth Knowledge Discovery**|
+|-|12:30h|12:50h|Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2021 *Alejandro Piad-Morfis, Suilan Estevez-Velarde, Yoan Gutierrez, Yudivian Almeida-Cruz, Andrés Montoyo, Rafael Muñoz*| [@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/overview_ehealthkd2021.bib)| | [📄](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6392)| 
+|-|12:50h|13:00h|Vicomtech at eHealth-KD Challenge 2021: Deep Learning Approaches to Model Health-related Text in Spanish. *Aitor García-Pablos, Naiara Perez, and Montse Cuadros*| [@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Vicomtech_eHealth-KD.bib)| [🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Vicomtech.mp4)| [📄](http://ceur-ws.org/Vol-2943/ehealth_paper6.pdf)|
+|-|13:00h|13:10h|PUCRJ-PUCPR-UFMG at eHealth-KD Challenge 2021: A Multilingual BERT-based System for Joint Entity Recognition and Relation Extraction. *Lucas Pavanelli, Elisa Terumi Rubel Schneider, Yohan Bonescki Gumiel, Thiago Castro Ferreira, Lucas Ferro Antunes de Oliveira, João Vitor Andrioli de Souza, Giovanni Pazini Meneghel Paiva, Lucas Emanuel Silva e Oliveira, Claudia Maria Cabral Moro, Emerson Cabrera Paraiso, and Adriana Pagano*| [@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/PUCRJ_PUCPR_UFMG_eHealth-KD_2021.bib)|[🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_PUCRJ-PUCPR-UFMG.mp4) |[📄](http://ceur-ws.org/Vol-2943/ehealth_paper3.pdf)|
+|-|13:10h|13:20h|IXA at eHealth-KD Challenge 2021: Generic Sequence Labelling as Relation Extraction Approach. *Edgar Andrés*| [@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Edgar_Andres_eHealth-KD_2021.bib)| [🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_IXA.mp4)| [📄](http://ceur-ws.org/Vol-2943/ehealth_paper1.pdf) |
+|-|13:20h|13:30h|Round of systems' videos| | | |
+|-|13:30h|14:00h|Discussion| | | |
 
 The overall IberLEF workshop program can be found at the [following link](https://sites.google.com/view/iberlef2021/workshop?authuser=0).
 
@@ -55,14 +55,14 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 
 | | Team | F1 | Precision | Recall |Bibtex|Video|Paper|
 |-|------|----|-----------|--------|-------|-------|-------|
-|🥇| Vicomtech         | 0.53106 | 0.54075 | 0.53464 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Vicomtech_eHealth-KD.bib)| [🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Vicomtech.mp4)| |
-|🥈| PUCRJ-PUCPR-UFMG  | 0.52835 | 0.56849 | 0.50276 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/PUCRJ_PUCPR_UFMG_eHealth-KD_2021.bib)| | |
-|🥉| IXA | 0.49886 | 0.46457 | 0.53863 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Edgar_Andres_eHealth-KD_2021.bib)| [🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_IXA.mp4)| |
-|  | uhKD4             | 0.42264 | 0.48529 | 0.37431 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/uhKD4_eHealth-KD_2021.bib)| [🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_uhKD4.mp4)| |
-|  | UH-MMM            | 0.33865 | 0.29163 | 0.40374 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/UH-MMM_eHealth-KD_2021.bib)| | |
+|🥇| Vicomtech         | 0.53106 | 0.54075 | 0.53464 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Vicomtech_eHealth-KD.bib)| [🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Vicomtech.mp4)| [📄](http://ceur-ws.org/Vol-2943/ehealth_paper6.pdf)|
+|🥈| PUCRJ-PUCPR-UFMG  | 0.52835 | 0.56849 | 0.50276 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/PUCRJ_PUCPR_UFMG_eHealth-KD_2021.bib)|[🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_PUCRJ-PUCPR-UFMG.mp4) |[📄](http://ceur-ws.org/Vol-2943/ehealth_paper3.pdf) |
+|🥉| IXA | 0.49886 | 0.46457 | 0.53863 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Edgar_Andres_eHealth-KD_2021.bib)| [🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_IXA.mp4)| [📄](http://ceur-ws.org/Vol-2943/ehealth_paper1.pdf) |
+|  | uhKD4             | 0.42264 | 0.48529 | 0.37431 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/uhKD4_eHealth-KD_2021.bib)| [🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_uhKD4.mp4)| [📄](http://ceur-ws.org/Vol-2943/ehealth_paper5.pdf) |
+|  | UH-MMM            | 0.33865 | 0.29163 | 0.40374 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/UH-MMM_eHealth-KD_2021.bib)|[🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_UH-MMM.mp4) | [📄](http://ceur-ws.org/Vol-2943/ehealth_paper4.pdf)|
 |  | Codestrange   | 0.23201 | 0.33703 | 0.17689 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/CodeStrange_eHealth-KD_2021.bib)| | |
 |  | baseline          | 0.23201 | 0.33703 | 0.17689 | [@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/overview_ehealthkd2021.bib)| | 
-|  | JAD           | 0.10949 | 0.23441 | 0.07143 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/JAD_eHealth-KD_2021.bib)| | |
+|  | JAD           | 0.10949 | 0.23441 | 0.07143 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/JAD_eHealth-KD_2021.bib)|[🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_JAD.mp4) | [📄](http://ceur-ws.org/Vol-2943/ehealth_paper2.pdf)|
 
 
 ### Scenario 2 (Task A)
@@ -74,10 +74,10 @@ The official results for Scenarios 1, 2, and 3 are presented next. You can downl
 |🥉| IXA | 0.65333   | 0.61372  | 0.6984  | |
 |  | UH-MMM            | 0.60769   | 0.54604  | 0.68503 | | | |
 |  | uhKD4             | 0.52728   | 0.51751  | 0.53743 | | | |
-|  | Yunnan-Deep       | 0.33406   | 0.52036  | 0.24599 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/GuanZhengyi_eHealth-KD_2021.bib)| [🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Yunnan-Deep.mp4)| |
+|  | Yunnan-Deep       | 0.33406   | 0.52036  | 0.24599 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/GuanZhengyi_eHealth-KD_2021.bib)| [🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Yunnan-Deep.mp4)| [📄](http://ceur-ws.org/Vol-2943/ehealth_paper8.pdf)|
 |  | baseline          | 0.30602   | 0.35034  | 0.27166 | | | |
 |  | JAD           | 0.2625    | 0.31579  | 0.2246  | | | |
-|  | Yunnan-1            | 0.17322   | 0.27107  | 0.12727 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Maoqin_eHealth-KD_2021.bib)|[🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Yunnan-1.mp4) | |
+|  | Yunnan-1            | 0.17322   | 0.27107  | 0.12727 |[@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Maoqin_eHealth-KD_2021.bib)|[🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_Yunnan-1.mp4) | [📄](http://ceur-ws.org/Vol-2943/ehealth_paper7.pdf)|
 |  | Codestrange   | 0.08019   | 0.415    | 0.04439 | | | |
 
 ### Scenario 3 (Task B)
@@ -155,22 +155,20 @@ Depending on the final number of participants and the time allocated for the wor
 We will provide preliminar bibtexts of the systems’ working-notes before the camera ready version. In addition, to cite the eHealth-Kd challenge you can use the following preliminar bibtext:
 ````bibtex
 @article{overview_ehealthkd2021,
-  author    = {Piad{-}Morffis, Alejandro and
-               Guti{\'{e}}rrez, Yoan and
-               Estevez{-}Velarde, Suilan and
-               Almeida{-}Cruz, Yudivi{\'{a}}n and
-               Mu{\~{n}}oz, Rafael and
-               Montoyo, Andr{\'{e}}s},
-  title     = {{Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2021}},
-  journal = {{Procesamiento del Lenguaje Natural}},
-  volume = {67},
-  number = {0},
-  pages={},
-  year = {2021},
-  keywords = {health, knowledge, machine learning},
-  issn = {1989-7553},
+	author = {Alejandro Piad-Morfis y Suilan Estevez-Velarde y Yoan Gutierrez y Yudivian Almeida-Cruz y Andrés Montoyo y Rafael Muñoz},
+	title = {Overview of the eHealth Knowledge Discovery Challenge at IberLEF 2021},
+	journal = {Procesamiento del Lenguaje Natural},
+	volume = {67},
+	number = {0},
+	year = {2021},
+	keywords = {},
+	abstract = {This paper summarises the eHealth Knowledge Discovery Challenge hosted at IberLEF 2021. We describe the task, resources, and participating systems, highlighting and discussing the main results achieved in the challenge. We analyse the best performing systems and present recommendations for future research.},
+	issn = {1989-7553},
+	url = {http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6392},
+	pages = {233--242}
 }
 ````
+
 Preliminar IberLEF 2021 proceedings:
 ````bibtex
 @inproceedings{iberlef2021,
