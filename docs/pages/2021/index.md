@@ -39,15 +39,10 @@ Online on September 21, 2021. Registration requiered at: [CEDI](http://www.hitz.
 |-|13:10h|13:20h|IXA at eHealth-KD Challenge 2021: Generic Sequence Labelling as Relation Extraction Approach. *Edgar Andrés*| [@](https://raw.githubusercontent.com/ehealthkd/ehealthkd.github.io/master/docs/pages/2021/bibtex/Edgar_Andres_eHealth-KD_2021.bib)| [🎥](https://github.com/ehealthkd/ehealthkd.github.io/raw/master/docs/pages/2021/videos/eHealth-KD-2021_1min_video_IXA.mp4)| [📄](http://ceur-ws.org/Vol-2943/ehealth_paper1.pdf) |
 |-|13:20h|13:30h|Round of short presentations | | | |
 |-|      |      |JAD at eHealth-KD Challenge 2021: Simple Neural Network with BERT for Joint Classification of Key-Phrases and Relations. *José Gabriel Navarro Comabella, Jorge Daniel Valle Diaz, Alberto Helguera Fleitas* | | | |
-|-|      |      |UH-MMM at eHealth-KD Challenge 2021: *Loraine Monteagudo-García, Amanda Marrero-Santos, Manuel Santiago
-Fernández-Arias, Hian Cañizares-Díaz* | | | |
-|-|      |      |uhKD4 at eHealth-KD Challenge 2021: Deep Learning Approaches for Knowledge
-Discovery from Spanish Biomedical Documents: *Dayany Alfaro-González, Dalianys Pérez-Perera, Gilberto González-
-Rodríguez, Antonio Jesús Otaño-Barrera, Rocío Cruz-Linares* | | | |
-|-|      |      |Yunnan-1 at eHealth-KD Challenge 2021: Deep-Learning Methods for Entity
-Recognition in Medical Text: *Maoqin Yang* | | | |
-|-|      |      |Yunnan-Deep at eHealth-KD Challenge 2021: Deep Learning Model for Entity
-Recognition in Spanish Documents: *Zhengyi Guan, Renyuan Liu* | | | |
+|-|      |      |UH-MMM at eHealth-KD Challenge 2021: *Loraine Monteagudo-García, Amanda Marrero-Santos, Manuel Santiago Fernández-Arias, Hian Cañizares-Díaz* | | | |
+|-|      |      |uhKD4 at eHealth-KD Challenge 2021: Deep Learning Approaches for Knowledge Discovery from Spanish Biomedical Documents: *Dayany Alfaro-González, Dalianys Pérez-Perera, Gilberto González-Rodríguez, Antonio Jesús Otaño-Barrera, Rocío Cruz-Linares* | | | |
+|-|      |      |Yunnan-1 at eHealth-KD Challenge 2021: Deep-Learning Methods for Entity Recognition in Medical Text: *Maoqin Yang* | | | |
+|-|      |      |Yunnan-Deep at eHealth-KD Challenge 2021: Deep Learning Model for Entity Recognition in Spanish Documents: *Zhengyi Guan, Renyuan Liu* | | | |
 |-|13:30h|14:00h|Discussion| | | |
 
 The overall IberLEF workshop program can be found at the [following link](https://sites.google.com/view/iberlef2021/workshop?authuser=0).
