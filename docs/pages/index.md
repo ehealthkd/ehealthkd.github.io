@@ -8,23 +8,27 @@ layout: main
 
 This page contains information about the challenge in general, a brief history of its development and links to each year's specific information.
 
+### 🏆 2024 Challenge
+
+We're back for the 2024 edition of the eHealth-KD Challenge! For the fifth time, we'll be hosting this challenge on knowledge discovery from clinical text sources. This new edition adds more data, and some interesting things.
+
+> 🔊 The challenge will be hosted at **IberLEF 2024** The latest information for the 2024 edition is available [here](/2024).
+
 ### 🏆 2021 Challenge
 
-We're back for the 2021 edition of the eHealth-KD Challenge! For the fourth time in a row, we'll be hosting this challenge on knowledge discovery from clinical text sources. This new edition adds more data, and some interesting things.
-
-> 🔊 The challenge will be hosted at **IberLEF 2021** The latest information for the 2021 edition is available [here](/2021).
+The fourth edition of the eHealth-KD Challenge was hosted at **IberLEF 2021**. All details are available [here](/2021).
 
 ### 🏆 2020 Challenge
 
-The third edition of the eHealth-KD Challenge was hosted at **IberLEF 2020**. All details are available [here](/pages/2020.html).
+The third edition of the eHealth-KD Challenge was hosted at **IberLEF 2020**. All details are available [here](/2020.html).
 
 ### 🏆 2019 Challenge
 
-The second edition of the eHealth-KD Challenge was hosted at **IberLEF 2019**. All details are available [here](/pages/2019.html).
+The second edition of the eHealth-KD Challenge was hosted at **IberLEF 2019**. All details are available [here](/2019.html).
 
 ### 🏆 2018 Challenge
 
-The first edition of the eHealth-KD Challenge was hosted at **TASS 2018**. All details are available [here](/pages/2018.html).
+The first edition of the eHealth-KD Challenge was hosted at **TASS 2018**. All details are available [here](/2018.html).
 
 ### Funding
 
