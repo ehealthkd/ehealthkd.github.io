@@ -8,8 +8,6 @@ layout: "2024"
 
 > ### 🗨️ Follow [@EHealthKD](https://twitter.com/EhealthKd) on Twitter for up-to-date information.
 
-<!-- > ### 🏆 As of **May 4th, 2021** the official results are available (read below)! -->
-
 ---
 
 Natural Language Processing (NLP) methods are increasingly being used to mine knowledge from unstructured health texts. Recent advances in health text processing techniques encourage researchers and health domain experts to go beyond just reading the information in published texts (e.g., academic manuscripts, clinical reports, etc.) and structured questionnaires to discover new knowledge by mining health content. This has allowed other perspectives that were not previously available to surface.
